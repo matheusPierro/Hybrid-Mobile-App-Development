@@ -1,4 +1,12 @@
+---
+marp: true
+theme: default
+class: invert
+---
+
 Repositório de Aulas Curso Graduação TDS FIAP 2023
+
+---
 
 # Aula 2 - Configuração de Ambiente Mac
 
@@ -13,6 +21,7 @@ Repositório de Aulas Curso Graduação TDS FIAP 2023
 
 Conteúdo: [Aula_02](/embreve.pdf)
 
+---
 
 # Aula 01 - Configuração de Ambiente Windows
 
@@ -27,6 +36,7 @@ Conteúdo: [Aula_02](/embreve.pdf)
 
 Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/embreve.pdf)
 
+---
 
 # Aula 00 - Inaugural Hybrid Mobile App Development
 
@@ -41,6 +51,7 @@ Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Wi
 Conteúdo: [Aula_00](/00_Quarta_feira_02_08_2023/00_Inaugural/Aula%2000_Inaugural.pdf)
 
 
-Se você seguir um passo de cada vez vai chegar longe. 
-Lembre-se é uma maratona e não uma corrida de cem metros.
+---
+Se você seguir um passo de cada vez vai chegar longe. Lembre-se! É uma maratona e não uma corrida de cem metros.
+
 [@mvalbuquerque](http://www.linkedin.com/in/mvalbuquerque)
