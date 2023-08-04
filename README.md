@@ -10,7 +10,7 @@ Repositório de Aulas Curso Graduação TDS FIAP 2023
 - [X] Mercado mobile.
 - [X] Perguntas e Respostas
 
-Conteúdo: [@Clique](/00_Quarta_feira_02_08_2023/00_Inaugural/Aula%2000_Inaugural.pdf)
+Conteúdo: [Aula_00](/00_Quarta_feira_02_08_2023/00_Inaugural/Aula%2000_Inaugural.pdf)
 
 Se você seguir um passo de cada vez vai chegar longe. 
 Lembre-se é uma maratona e não uma corrida de cem metros.
