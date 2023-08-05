@@ -48,8 +48,17 @@ A configuração das variáveis de ambiente é um passo importante para garantir
 # Passo 4
  Salve o arquivo e feche o editor.
 
----
+Este é o exemplo de como ficou no meu MAC. A e no meu caso eu utilizo .zshrc 
 
+```
+export ANDROID_HOME=/Users/mvalbuquerque/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+```
+
+---
 # Passo 5
 
  Atualize as variáveis de ambiente no Terminal:
