@@ -4,11 +4,11 @@ theme: default
 class: invert
 ---
 
-Repositório de Aulas Curso Graduação TDS FIAP 2023
+Repositório Aulas Curso Graduação 2TDS FIAP 2023.
 
 ---
 
-# Aula 2 - Configuração de Ambiente Mac
+# Aula 2 - Configuração de Ambiente @macOS
 
 ### Capítulo 1
 
@@ -23,7 +23,7 @@ Conteúdo: [Aula_02](/embreve.pdf)
 
 ---
 
-# Aula 01 - Configuração de Ambiente Windows
+# Aula 01 - Configuração de Ambiente @Windows
 
 ### Capitulo 1
 
