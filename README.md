@@ -8,11 +8,26 @@ Repositório Aulas Curso Graduação 2TDS FIAP 2023.
 
 ---
 
+# Aula 3 - Configuração de Ambiente @macOS
+
+### Capítulo 1
+
+- [ ] Instalando o Android Studio macOS
+- [ ] Configurando ADT
+- [ ] Criando Emulador
+- [ ] Configurando Emulador
+- [ ] Hello Word!
+- [ ] Dúvidas
+
+Conteúdo: [Aula_03](/embreve.pdf)
+
+---
+
 # Aula 2 - Configuração de Ambiente @macOS
 
 ### Capítulo 1
 
-- [ ] Instalando o Android Studio
+- [ ] Instalando o Android Studio Windows
 - [ ] Configurando ADT
 - [ ] Criando Emulador
 - [ ] Configurando Emulador
@@ -27,12 +42,12 @@ Conteúdo: [Aula_02](/embreve.pdf)
 
 ### Capitulo 1
 
-- [ ] Instalando o Android Studio
-- [ ] Configurando ADT
-- [ ] Criando Emulador
-- [ ] Configurando Emulador
-- [ ] Hello Word!
-- [ ] Dúvidas
+- [X]Instalando o Android Studio
+- [X] Configurando ADT
+- [X] Criando Emulador
+- [X] Configurando Emulador
+- [X] Hello Word!
+- [X] Dúvidas
 
 Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/Aula_01_Instalando_Android_Studio.pdf)
 
