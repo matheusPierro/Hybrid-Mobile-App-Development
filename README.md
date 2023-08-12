@@ -4,20 +4,34 @@ theme: default
 class: invert
 ---
 
-Repositório Aulas Curso Graduação 2TDS FIAP 2023.
+# Repositório Aulas Curso Graduação 
+## [2TDS]  - FIAP
 
 ---
 
-# Aula 3 - Configuração de Ambiente @macOS
+# Aula 4 - Introdução ao Kotlin
 
-### Capítulo 1
+- [ ] For
+- [ ] While
+- [ ] Funcoes
+- [ ] IncrementoPos
+- [ ] Desafio_SizeOff
+- [ ] Desafio_Calor_Frio
+- [ ] Desafio_Calor_Frio
+- [ ] CheckPoint I 
 
-- [ ] Instalando o Android Studio macOS
-- [ ] Configurando ADT
-- [ ] Criando Emulador
-- [ ] Configurando Emulador
-- [ ] Hello Word!
-- [ ] Dúvidas
+Conteúdo: [Aula_03](/embreve.pdf)
+
+---
+
+# Aula 3 - Introdução ao Kotlin
+
+- [ ] Olá Mundo
+- [ ] ApresenteSe
+- [ ] Variaveis
+- [ ] Array
+- [ ] Condicional_IF
+- [ ] Desafio_Comanda
 
 Conteúdo: [Aula_03](/embreve.pdf)
 
@@ -25,12 +39,14 @@ Conteúdo: [Aula_03](/embreve.pdf)
 
 # Aula 2 - Configuração de Ambiente @macOS
 
-### Capítulo 1
 
-- [ ] Instalando o Android Studio Windows
-- [ ] Configurando ADT
-- [ ] Criando Emulador
-- [ ] Configurando Emulador
+- [X] Instalando o Android Studio Windows
+- [X] Configurando ADT
+- [X] Criando Emulador
+- [X] Configurando Emulador
+
+### Capítulo 2
+
 - [ ] Hello Word!
 - [ ] Dúvidas
 
@@ -39,8 +55,6 @@ Conteúdo: [Aula_02](/embreve.pdf)
 ---
 
 # Aula 01 - Configuração de Ambiente @Windows
-
-### Capitulo 1
 
 - [X]Instalando o Android Studio
 - [X] Configurando ADT
