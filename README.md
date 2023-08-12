@@ -39,16 +39,13 @@ Conteúdo: [Aula_03](/embreve.pdf)
 
 # Aula 2 - Configuração de Ambiente @macOS
 
-
+- [X] Introdução ao macOS
 - [X] Instalando o Android Studio Windows
 - [X] Configurando ADT
 - [X] Criando Emulador
 - [X] Configurando Emulador
-
-### Capítulo 2
-
-- [ ] Hello Word!
-- [ ] Dúvidas
+- [X] Hello Word!
+- [X] Dúvidas
 
 Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac/Aula_02_Instalando_AndroidStudio_macOs.pdf)
 
@@ -56,7 +53,7 @@ Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac
 
 # Aula 01 - Configuração de Ambiente @Windows
 
-- [X]Instalando o Android Studio
+- [X] Instalando o Android Studio
 - [X] Configurando ADT
 - [X] Criando Emulador
 - [X] Configurando Emulador
