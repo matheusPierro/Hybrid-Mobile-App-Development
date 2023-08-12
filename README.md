@@ -50,7 +50,7 @@ Conteúdo: [Aula_03](/embreve.pdf)
 - [ ] Hello Word!
 - [ ] Dúvidas
 
-Conteúdo: [Aula_02](/embreve.pdf)
+Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac/Aula_02_Instalando_AndroidStudio_macOs.pdf)
 
 ---
 
