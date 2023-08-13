@@ -9,29 +9,28 @@ class: invert
 
 ---
 
-# Aula 4 - Introdução ao Kotlin
+# Aula 5 - Kotlin WIP
 
-- [ ] For
-- [ ] While
-- [ ] Funcoes
-- [ ] IncrementoPos
-- [ ] Desafio_SizeOff
-- [ ] Desafio_Calor_Frio
-- [ ] Desafio_Calor_Frio
-- [ ] CheckPoint I 
+- [ ] WIP
 
-Conteúdo: [Aula_03](/embreve.pdf)
+Conteúdo: [Aula_05](/embreve.pdf)
 
 ---
 
-# Aula 3 - Introdução ao Kotlin
+# Aula 4 - Kotlin 
 
-- [ ] Olá Mundo
+- [ ] WIP
+
+Conteúdo: [Aula_04](/embreve.pdf)
+
+# Aula 3 - Introdução GitHub e Kotlin
+
+- [ ] GitHub (Clone, Commit, Add, Push, Branch)
+- [ ] Instalando e configurando ambiente Kotlin CommandLine 
+- [ ] OlaMundo
 - [ ] ApresenteSe
-- [ ] Variaveis
-- [ ] Array
-- [ ] Condicional_IF
-- [ ] Desafio_Comanda
+- [ ] Desafio_Kotlin
+- [ ] Tira Dúvidas
 
 Conteúdo: [Aula_03](/embreve.pdf)
 
