@@ -30,9 +30,9 @@ Conteúdo: [Aula_04](/embreve.pdf)
 - [ ] OlaMundo
 - [ ] ApresenteSe
 - [ ] Desafio_Kotlin
-- [ ] Tira Dúvidas
+- [ ] Perguntas e Respostas
 
-Conteúdo: [Aula_03](/embreve.pdf)
+Conteúdo: [Aula_03](/03_Quarta_Feira_14_08_2023/00_Introducao_Kotlin.pdf)
 
 ---
 
@@ -44,7 +44,7 @@ Conteúdo: [Aula_03](/embreve.pdf)
 - [X] Criando Emulador
 - [X] Configurando Emulador
 - [X] Hello Word!
-- [X] Dúvidas
+- [X] Perguntas e Respostas
 
 Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac/Aula_02_Instalando_AndroidStudio_macOs.pdf)
 
@@ -57,7 +57,7 @@ Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac
 - [X] Criando Emulador
 - [X] Configurando Emulador
 - [X] Hello Word!
-- [X] Dúvidas
+- [X] Perguntas e Respostas
 
 Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/Aula_01_Instalando_Android_Studio.pdf)
 

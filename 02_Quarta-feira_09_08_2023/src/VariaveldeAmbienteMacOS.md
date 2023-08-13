@@ -4,6 +4,9 @@ theme: default
 class: invert
 ---
 
+## Configurando Variáveis de Ambiente no Mac
+
+---
 A configuração das variáveis de ambiente é um passo importante para garantir que o Android Studio e o SDK do Android funcionem corretamente no seu sistema. Siga os passos abaixo para configurar as variáveis de ambiente no macOS:
 
 ---
@@ -33,15 +36,16 @@ A configuração das variáveis de ambiente é um passo importante para garantir
   Adicione as variáveis de ambiente:
    - No arquivo .bash_profile ou .zshrc, adicione as seguintes linhas (substitua os caminhos pelos caminhos reais onde você instalou o Android Studio e o SDK):
    
-   ```
    # Configuração do Android Studio
+   
+
+   ```
    export ANDROID_HOME=/caminho/para/android/sdk
    export PATH=$PATH:$ANDROID_HOME/emulator
    export PATH=$PATH:$ANDROID_HOME/tools
    export PATH=$PATH:$ANDROID_HOME/tools/bin
    export PATH=$PATH:$ANDROID_HOME/platform-tools
    ```
-   
    Certifique-se de substituir "/caminho/para/android/sdk" pelo caminho real onde você instalou o SDK do Android. Por exemplo, se você instalou o Android Studio na pasta "Applications" (Aplicativos), o caminho pode ser "/Applications/Android Studio.app/sdk".
 
 ---
@@ -94,6 +98,8 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 ---
 # Conclusão 
 
-Agora as variáveis de ambiente estão configuradas corretamente para o Android Studio no seu macOS. Isso permitirá que o Android Studio e as ferramentas do SDK do Android sejam acessíveis em qualquer localização do Terminal. Você pode iniciar o Android Studio normalmente e começar a desenvolver aplicativos Android!
+Agora as variáveis de ambiente estão configuradas corretamente para o Android Studio no seu macOS. Isso permitirá que o Android Studio e as ferramentas do SDK do Android sejam acessíveis em qualquer localização do Terminal. 
+Você pode iniciar o Android Studio normalmente e começar a desenvolver aplicativos Android!
 
-#Divirta-se! 
+#Divirta-se!
+Profº [Vinny Albuquerque](http://www.linkedin.com/in/mvalbuquerque)
