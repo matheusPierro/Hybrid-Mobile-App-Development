@@ -4,7 +4,7 @@ theme: default
 class: invert
 ---
 
-## Esse é o exemplo Olá Mundo !
+## Desafio Kotlin - WIP !
 
 
 [@mvalbuquerque](http://www.linkedin.com/in/mvalbuquerque)
