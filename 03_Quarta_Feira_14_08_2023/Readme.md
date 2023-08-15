@@ -4,9 +4,9 @@ theme: default
 class: invert
 ---
 
-## Olá! Todo conteúdo da aula 3 estará aqui. 
+## Aula 3
 
-# Os aquivos de código fonte esta na pasta: [AQUI](/src/Readme.md) 
-
+Olá! Todo conteúdo da Aula 3 estará aqui.
+Os aquivos de código fonte esta na pasta: SRC 
 
 [@mvalbuquerque](http://www.linkedin.com/in/mvalbuquerque)
