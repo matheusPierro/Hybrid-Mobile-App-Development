@@ -6,7 +6,7 @@ class: invert
 
 ## Esse é o exemplo Olá Mundo !
 
-# Código fonte esta nessa pasta: [Clique](/src/)
+# Código fonte esta nessa pasta: SRC
 
 
 [@mvalbuquerque](http://www.linkedin.com/in/mvalbuquerque)
