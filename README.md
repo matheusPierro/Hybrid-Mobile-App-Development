@@ -25,14 +25,14 @@ Conteúdo: [Aula_04](/embreve.pdf)
 
 # Aula 3 - Introdução GitHub e Kotlin
 
-- [ ] GitHub (Clone, Commit, Add, Push, Branch)
-- [ ] Instalando e configurando ambiente Kotlin CommandLine 
-- [ ] OlaMundo
+- [X] GitHub (Clone, Commit, Add, Push, Branch)
+- [X] Instalando e configurando ambiente Kotlin CommandLine 
+- [X] OlaMundo
 - [ ] ApresenteSe
 - [ ] Desafio_Kotlin
 - [ ] Perguntas e Respostas
 
-Conteúdo: [Aula_03](/03_Quarta_Feira_14_08_2023/00_Introducao_Kotlin.pdf)
+Conteúdo: [Aula_03](/03_Quarta_Feira_14_08_2023/02_Introducao_Kotlin.pdf)
 
 ---
 
