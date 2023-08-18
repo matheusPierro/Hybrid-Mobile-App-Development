@@ -1,8 +1,8 @@
 ---
 marp: true
-theme: default
-class: invert
+theme: fiap-dark
 ---
+
 # Aula 01 - Configurando Ambiente #Windows
 
 - [X] [Configuração de Ambiente @Windows](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/Aula%2001%20-%20Instalando%20o%20Android%20Studio.pdf)
