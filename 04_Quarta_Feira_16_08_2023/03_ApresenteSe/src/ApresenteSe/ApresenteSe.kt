@@ -9,12 +9,12 @@ fun main() {
     println("Minha inicial é $inicial, tenho $idade anos e minha altura é %.2f".format(altura))
     
     // Declaração e inicialização de uma variável mutável
-    var incremento = 5
+   // var incremento = 10
     
     // Uso do operador de incremento pós-fixado
-    incremento++ 
-    // Agora, incremento é incrementado após sua utilização
+//    incremento = incremento++ 
+    // Aqui, incremento mantém seu valor original e depois é incrementado
     
     // Impressão do valor da variável incremento após a operação
-    println(incremento)
+  //  println(incremento)
 }
