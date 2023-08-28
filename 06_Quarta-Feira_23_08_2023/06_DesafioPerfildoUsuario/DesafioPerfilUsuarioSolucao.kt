@@ -1,8 +1,10 @@
-//Desafio Perfil Usuario  - Com Input
+// Desafio Perfil Usuario  - Com Input
+
+// para mac indentação opt+shif+f
 
 fun main() {
 
-    //Solicitando entrada dos dados do usuario
+    // Solicitando entrada dos dados do usuario
     println("Digite seu nome:")
     val nome = readLine()!!
 
@@ -15,13 +17,12 @@ fun main() {
     println("O usuário está ativo?(true/false):")
     val usuarioAtivo = readLine()!!.toBoolean()
 
-    //Exibição das informações no console 
+    // Exibição das informações no console
     println("Nome: $nome")
     println("Idade: $idade")
     println("Email: $email")
     print("Ativo: $usuarioAtivo")
 }
-
 
 // fun main() {
 //     // Declaração e atribuição de variáveis

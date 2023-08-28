@@ -4,7 +4,7 @@ fun main() {
     val temperaturaCelsius = 25.0
 
     // Converte a temperatura de Celsius para Fahrenheit usando a fórmula (C * 9/5) + 32
-    val temperaturaFahrenheit = temperaturaCelsius * 9/5 + 32
+    val temperaturaFahrenheit = temperaturaCelsius * 9 / 5 + 32
 
     // Converte a temperatura de Celsius para Kelvin adicionando 273.15
     val temperaturaKelvin = temperaturaCelsius + 273.15
