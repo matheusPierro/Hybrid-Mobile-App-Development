@@ -1,5 +1,15 @@
 // Desafio Prático - Calculadora de Média Escolar com [Input]
 
+/*
+
+Usar !! após readLine() é uma indicação de que o programador 
+está afirmando que o resultado de readLine() nunca será nulo. 
+
+Se readLine() de fato retornar null, o operador !!
+forçará a lançar uma exceção NullPointerException. 
+
+*/
+
 fun main() {
 
     //Solicitando a primeira nota para o usuário
