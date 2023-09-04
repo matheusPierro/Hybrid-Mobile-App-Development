@@ -1,0 +1,12 @@
+{
+    "markdown.marp.chromePath": "Google Chrome",
+     "markdown.marp.themes": [
+
+      "./themes/fiap.css",
+
+      "./themes/fiap-dark.css",
+
+    ]
+    
+}
+  

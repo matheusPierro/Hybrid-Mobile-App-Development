@@ -20,7 +20,6 @@ fun main() {
 
 /*
 
-
 fun main() {
     // Solicitando ao usuário que informe a nota
     println("Digite a nota do aluno:")
