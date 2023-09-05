@@ -9,14 +9,14 @@ theme: fiap-dark
 ## [2TDS]  - FIAP
 ---
 
-# Aula 8 - Kotlin 
+# Aula 9 - Kotlin 
 
-- [X] Condicional_IF
-- [X] Condicional_When
-- [X] Condicional_For
+- [X] While
+- [X] Incremento
+- [X] SizeOf
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_08](/08_Quarta-Feira_30_08_2023/Readme.md)
+Conteúdo: [Aula_09](/09_Segunda-Feira_04_09_2023/Readme.md)
 
 ---
 <!-- header: 'Dúvidas' -->

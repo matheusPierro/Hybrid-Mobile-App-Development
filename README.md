@@ -9,6 +9,17 @@ theme: fiap-dark
 ## [2TDS]  - FIAP
 
 ---
+
+# Aula 9 - Kotlin 
+
+- [X] While
+- [X] Incremento
+- [X] SizeOf
+- [X] Perguntas e Respostas
+
+Conteúdo: [Aula_09](/09_Segunda-Feira_04_09_2023/Readme.md)
+
+---
 # Aula 8 - Kotlin 
 
 - [X] Condicional_IF
@@ -22,7 +33,7 @@ Conteúdo: [Aula_08](/08_Quarta-Feira_30_08_2023/Readme.md)
 ---
 # Aula 7 - Kotlin 
 
-- [X] Exercícios_Array
+- [X] [Exercícios_Array](/07_Segunda-Feira_28_08_2023/04_Array/Readme.md)
 - [X] Ex_Array_Soma_Elementos
 - [X] Ex_Array_Maior_Menor
 - [X] Ex_Array_Media
@@ -36,11 +47,11 @@ Conteúdo: [Aula_07](/07_Segunda-Feira_28_08_2023/Readme.md)
 ---
 # Aula 6 - Kotlin 
 
-- [X] Desafio Média Escolar 
-- [X] Desafio Perfil do Usuário
-- [X] Desafio Temperatura
-- [X] Variáveis 
-- [X] Perguntas e Respostas
+- [X] [Desafio Média Escolar](/06_Quarta-Feira_23_08_2023/06_DesafioMediaEscolar/DesafioMediaEscolar.kt) 
+- [X] [Desafio Perfil do Usuário](/06_Quarta-Feira_23_08_2023/06_DesafioPerfildoUsuario/04_DesafioPerfildoUsuario.pdf)
+- [X] [Desafio Temperatura](/06_Quarta-Feira_23_08_2023/06_DesafioTemperatura/DesafioTemperatura.kt)
+- [X] [Variáveis](/06_Quarta-Feira_23_08_2023/03_Variaveis.pdf)
+- [X] [Perguntas e Respostas](/embreve.pdf)
 
 Conteúdo: [Aula_06](/06_Quarta-Feira_23_08_2023/Readme.md)
 
@@ -48,12 +59,15 @@ Conteúdo: [Aula_06](/06_Quarta-Feira_23_08_2023/Readme.md)
 
 # Aula 5 - Kotlin 
 
-- [X] Fundamentos da Programação 
-- [X] OláMundo
-- [X] ApresenteSe
-- [X] Funções
-- [X] Variáveis
-- [X] Perguntas e Respostas
+- [X] [Fundamentos](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/00_Fundamentos/Fundamentos_da_Programação.pdf)
+- [X] [Olá Mundo](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/01_OlaMundo/01_OlaMundo.pdf)
+- [X] [ApresenteSe](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/02_ApresenteSe/02_ApresenteSe.pdf)
+- [X] [Funções](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/03_Funcoes/02_Funcoes_Kotlin.pdf)
+- [X] [Funções Complemento](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/03_Funcoes/03_Funcoes_Complemento_Kotlin.pdf)
+- [X] [Variáveis](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/03_Variaveis/03_Variaveis.pdf)
+- [X] [DesafioComanda](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/05_DesafioComanda/Desafiocomanda.pdf)
+- [X] [Array](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/05_DesafioComanda/Desafiocomanda.pdf)
+
 
 Conteúdo: [Aula_05](/05_Segunda_Feira_21_08_2023/Readme.md)
 
