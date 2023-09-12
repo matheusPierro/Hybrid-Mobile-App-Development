@@ -6,7 +6,17 @@ theme: fiap-dark
 
 ---
 # Repositório Aulas Curso Graduação 
-## [2TDS]  - FIAP
+## [2TDS] :: HMAD FIAP ::
+
+---
+
+# Aula 10 - Kotlin 
+
+- [X] CheckPoint - I
+- [X] Check Point - Calculadora
+- [X] Check Point - MegaSena
+
+Conteúdo: [Aula_10](/10_Quarta-Feira_06_09_2023/Readme.md)
 
 ---
 
@@ -59,14 +69,14 @@ Conteúdo: [Aula_06](/06_Quarta-Feira_23_08_2023/Readme.md)
 
 # Aula 5 - Kotlin 
 
-- [X] [Fundamentos](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/00_Fundamentos/Fundamentos_da_Programação.pdf)
-- [X] [Olá Mundo](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/01_OlaMundo/01_OlaMundo.pdf)
-- [X] [ApresenteSe](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/02_ApresenteSe/02_ApresenteSe.pdf)
-- [X] [Funções](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/03_Funcoes/02_Funcoes_Kotlin.pdf)
-- [X] [Funções Complemento](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/03_Funcoes/03_Funcoes_Complemento_Kotlin.pdf)
-- [X] [Variáveis](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/03_Variaveis/03_Variaveis.pdf)
-- [X] [DesafioComanda](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/05_DesafioComanda/Desafiocomanda.pdf)
-- [X] [Array](/src/2023/08_Ago/05_Segunda_Feira_21_08_2023/05_DesafioComanda/Desafiocomanda.pdf)
+- [X] Fundamentos da Programação
+- [X] Olá Mundo
+- [X] ApresenteSe
+- [X] Funções
+- [X] Funções Complemento
+- [X] Variáveis
+- [X] DesafioComanda
+- [X] Array
 
 
 Conteúdo: [Aula_05](/05_Segunda_Feira_21_08_2023/Readme.md)
@@ -117,13 +127,11 @@ Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac
 - [X] Hello Word!
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/Aula_01_Instalando_Android_Studio.pdf)
+Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/README.md)
 
 ---
 
-# Aula 00 - Inaugural Hybrid Mobile App Development
-
-### Apresente-se
+# Aula 00 - Inaugural 
 
 - [X] Ementa
 - [X] Pré-Requisitos
