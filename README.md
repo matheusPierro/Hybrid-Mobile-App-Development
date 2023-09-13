@@ -5,8 +5,8 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
-# Repositório Aulas Curso Graduação 
-## [2TDS] :: HMAD FIAP ::
+# :: Hybrid Mobile App Development ::
+## Repositório Graduação: [2TDS] 
 
 ---
 # [Kotlin](/01_Kotlin/README.md)
@@ -17,9 +17,7 @@ theme: fiap-dark
 
 # [React Native](/04_ReactNative/embreve.pdf)
 
-# [Bonus](/05_Bonus/embreve.pdf)
-
-## [Home](/README.md)
+# [Bônus](/05_Bonus/embreve.pdf)
 
 ---
 <!-- header: 'Dúvidas' -->
