@@ -5,8 +5,8 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
-# Repositório Aulas Curso Graduação 
-## [2TDS] :: HMAD FIAP ::
+# :: Hybrid Mobile App Development ::
+## Repositório Graduação: [2TDS] 
 
 <br>
 
@@ -14,7 +14,7 @@ theme: fiap-dark
 
 - [X] [Configuração de Ambiente @Windows](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/Aula%2001%20-%20Instalando%20o%20Android%20Studio.pdf)
 
-
+ << [Home](/01_Kotlin/README.md)
 ---
 
 <!-- header: 'Dúvidas' -->

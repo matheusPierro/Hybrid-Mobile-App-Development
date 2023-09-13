@@ -16,7 +16,7 @@ theme: fiap-dark
 - [X] SizeOf
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_09](/09_Segunda-Feira_04_09_2023/Readme.md)
+ << [Home](/01_Kotlin/README.md)
 
 ---
 <!-- header: 'Dúvidas' -->

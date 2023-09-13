@@ -5,8 +5,8 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
-# Repositório Aulas Curso Graduação 
-## [2TDS] :: HMAD FIAP ::
+# :: Hybrid Mobile App Development ::
+## Repositório Graduação: [2TDS] 
 ---
 
 # Aula 6 - Kotlin WIP

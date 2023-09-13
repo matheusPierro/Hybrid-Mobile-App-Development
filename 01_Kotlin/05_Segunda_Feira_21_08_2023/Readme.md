@@ -6,6 +6,10 @@ theme: fiap-dark
 
 ---
 <!-- _class: title -->
+# :: Hybrid Mobile App Development ::
+## Repositório Graduação: [2TDS] 
+---
+<!-- _class: title -->
 # Desafio
 ApresenteSe ! - Kotlin
 

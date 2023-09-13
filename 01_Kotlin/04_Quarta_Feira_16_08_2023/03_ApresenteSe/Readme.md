@@ -5,6 +5,9 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
+# :: Hybrid Mobile App Development ::
+## Repositório Graduação: [2TDS] 
+
 ---
 <!-- _class: title -->
 # Desafio
