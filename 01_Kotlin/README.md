@@ -16,7 +16,7 @@ theme: fiap-dark
 - [X] Check Point - Calculadora
 - [X] Check Point - MegaSena
 
-Conteúdo: [Aula_10](/10_Quarta-Feira_06_09_2023/Readme.md)
+Conteúdo: [Aula_10](/01_Kotlin/10_Quarta-Feira_06_09_2023/Readme.md)
 
 ---
 
@@ -27,7 +27,7 @@ Conteúdo: [Aula_10](/10_Quarta-Feira_06_09_2023/Readme.md)
 - [X] SizeOf
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_09](/09_Segunda-Feira_04_09_2023/Readme.md)
+Conteúdo: [Aula_09](/01_Kotlin/09_Segunda-Feira_04_09_2023/Readme.md)
 
 ---
 # Aula 8 - Kotlin 
@@ -37,13 +37,13 @@ Conteúdo: [Aula_09](/09_Segunda-Feira_04_09_2023/Readme.md)
 - [X] Condicional-For
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_08](/08_Quarta-Feira_30_08_2023/Readme.md)
+Conteúdo: [Aula_08](/01_Kotlin/08_Quarta-Feira_30_08_2023/Readme.md)
 
 
 ---
 # Aula 7 - Kotlin 
 
-- [X] [Exercícios_Array](/07_Segunda-Feira_28_08_2023/04_Array/Readme.md)
+- [X] Exercícios_Array
 - [X] Ex_Array_Soma_Elementos
 - [X] Ex_Array_Maior_Menor
 - [X] Ex_Array_Media
@@ -51,19 +51,19 @@ Conteúdo: [Aula_08](/08_Quarta-Feira_30_08_2023/Readme.md)
 - [X] Ex_Array_Inversão
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_07](/07_Segunda-Feira_28_08_2023/Readme.md)
+Conteúdo: [Aula_07](/01_Kotlin/07_Segunda-Feira_28_08_2023/Readme.md)
 
 
 ---
 # Aula 6 - Kotlin 
 
-- [X] [Desafio Média Escolar](/06_Quarta-Feira_23_08_2023/06_DesafioMediaEscolar/DesafioMediaEscolar.kt) 
-- [X] [Desafio Perfil do Usuário](/06_Quarta-Feira_23_08_2023/06_DesafioPerfildoUsuario/04_DesafioPerfildoUsuario.pdf)
-- [X] [Desafio Temperatura](/06_Quarta-Feira_23_08_2023/06_DesafioTemperatura/DesafioTemperatura.kt)
-- [X] [Variáveis](/06_Quarta-Feira_23_08_2023/03_Variaveis.pdf)
+- [X] [Desafio Média Escolar](/01_Kotlin/06_Quarta-Feira_23_08_2023/06_DesafioMediaEscolar/DesafioMediaEscolar.kt) 
+- [X] [Desafio Perfil do Usuário](/01_Kotlin/06_Quarta-Feira_23_08_2023/06_DesafioPerfildoUsuario/04_DesafioPerfildoUsuario.pdf)
+- [X] [Desafio Temperatura](/01_Kotlin/06_Quarta-Feira_23_08_2023/06_DesafioTemperatura/DesafioTemperatura.kt)
+- [X] [Variáveis](/01_Kotlin/06_Quarta-Feira_23_08_2023/03_Variaveis.pdf)
 - [X] [Perguntas e Respostas](/embreve.pdf)
 
-Conteúdo: [Aula_06](/06_Quarta-Feira_23_08_2023/Readme.md)
+Conteúdo: [Aula_06](/01_Kotlin/06_Quarta-Feira_23_08_2023/Readme.md)
 
 ---
 
@@ -79,7 +79,7 @@ Conteúdo: [Aula_06](/06_Quarta-Feira_23_08_2023/Readme.md)
 - [X] Array
 
 
-Conteúdo: [Aula_05](/05_Segunda_Feira_21_08_2023/Readme.md)
+Conteúdo: [Aula_05](/01_Kotlin/05_Segunda_Feira_21_08_2023/Readme.md)
 
 ---
 
@@ -87,7 +87,7 @@ Conteúdo: [Aula_05](/05_Segunda_Feira_21_08_2023/Readme.md)
 
 - [X] ApresenteSe
 
-Conteúdo: [Aula_04](/04_Quarta_Feira_16_08_2023/03_ApresenteSe/Readme.md)
+Conteúdo: [Aula_04](/01_Kotlin/04_Quarta_Feira_16_08_2023/03_ApresenteSe/Readme.md)
 
 ---
 
@@ -100,7 +100,7 @@ Conteúdo: [Aula_04](/04_Quarta_Feira_16_08_2023/03_ApresenteSe/Readme.md)
 - [X] Desafio_Kotlin
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_03](/03_Quarta_Feira_14_08_2023/02_Introducao_Kotlin.pdf)
+Conteúdo: [Aula_03](/01_Kotlin/03_Quarta_Feira_14_08_2023/02_Introducao_Kotlin.pdf)
 
 ---
 
@@ -114,7 +114,7 @@ Conteúdo: [Aula_03](/03_Quarta_Feira_14_08_2023/02_Introducao_Kotlin.pdf)
 - [X] Hello Word!
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac/Aula_02_Instalando_AndroidStudio_macOs.pdf)
+Conteúdo: [Aula_02](/01_Kotlin/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac/Aula_02_Instalando_AndroidStudio_macOs.pdf)
 
 ---
 
@@ -127,7 +127,7 @@ Conteúdo: [Aula_02](/02_Quarta-feira_09_08_2023/02_Configuracao_do_Ambiente_Mac
 - [X] Hello Word!
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/README.md)
+Conteúdo: [Aula_01](/01_Kotlin/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Windows/README.md)
 
 ---
 
@@ -139,8 +139,7 @@ Conteúdo: [Aula_01](/01_Segunda_feira_07_08_2023/01_Configuracao_do_Ambiente_Wi
 - [X] Mercado mobile
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_00](/00_Quarta_feira_02_08_2023/00_Inaugural/Aula%2000_Inaugural.pdf)
-
+Conteúdo: [Aula_00](/01_Kotlin/00_Quarta_feira_02_08_2023/00_Inaugural/Aula%2000_Inaugural.pdf)
 
 ---
 <!-- header: 'Dúvidas' -->
