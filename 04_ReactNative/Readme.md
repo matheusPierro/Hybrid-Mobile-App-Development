@@ -5,35 +5,16 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
-# Repositório Aulas Curso Graduação 
+# Repositório Aulas Curso Graduação  - React Native
 ## [2TDS] :: HMAD FIAP ::
 
 ---
-# [Kotlin](/01_Kotlin/README.md)
+# React Native 
 
-<BR>
-
-# [Android](/02_Android/Readme.md)
-
-<BR>
+- [Em Breve](/embreve.pdf)
 
 
-# [JavaScript](/03_JavaScript/embreve.pdf)
-
-<BR>
-
-
-# [React Native](/04_ReactNative/embreve.pdf)
-
-<BR>
-
-
-# [Bonus](/05_Bonus/embreve.pdf)
-
-<BR>
-
-
-## [Home](/README.md)
+Conteúdo: [Home](/README.md)
 
 ---
 <!-- header: 'Dúvidas' -->

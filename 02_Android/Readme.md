@@ -5,35 +5,18 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
-# Repositório Aulas Curso Graduação 
+# Repositório Aulas Curso Graduação  - Android
 ## [2TDS] :: HMAD FIAP ::
 
 ---
-# [Kotlin](/01_Kotlin/README.md)
+# Android 
 
-<BR>
-
-# [Android](/02_Android/Readme.md)
-
-<BR>
+- [Aula1 - Ativando Dispositivo](/02_Android/11_Segunda-Feira_11_09_2023/00_Ativando%20Dispositivos_Android/ativando-dispositivo.pdf)
+- [Aula 1.1](/02_Android/11_Segunda-Feira_11_09_2023/01_Aula_Apresentacao_Android/01_Aula_Apresentação_Android.pdf)
+- [Aula 2](/02_Android/12_Quarta-Feira_13_09_2023/Readme.md)
 
 
-# [JavaScript](/03_JavaScript/embreve.pdf)
-
-<BR>
-
-
-# [React Native](/04_ReactNative/embreve.pdf)
-
-<BR>
-
-
-# [Bonus](/05_Bonus/embreve.pdf)
-
-<BR>
-
-
-## [Home](/README.md)
+Conteúdo: [Home](/README.md)
 
 ---
 <!-- header: 'Dúvidas' -->
