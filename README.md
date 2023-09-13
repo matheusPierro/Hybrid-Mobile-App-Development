@@ -11,27 +11,13 @@ theme: fiap-dark
 ---
 # [Kotlin](/01_Kotlin/README.md)
 
-<BR>
-
 # [Android](/02_Android/Readme.md)
-
-<BR>
-
 
 # [JavaScript](/03_JavaScript/embreve.pdf)
 
-<BR>
-
-
 # [React Native](/04_ReactNative/embreve.pdf)
 
-<BR>
-
-
 # [Bonus](/05_Bonus/embreve.pdf)
-
-<BR>
-
 
 ## [Home](/README.md)
 
