@@ -12,8 +12,9 @@ theme: fiap-dark
 # Android 
 
 - [Aula1 - Ativando Dispositivo](/02_Android/11_Segunda-Feira_11_09_2023/00_Ativando%20Dispositivos_Android/ativando-dispositivo.pdf)
-- [Aula 1.1](/02_Android/11_Segunda-Feira_11_09_2023/01_Aula_Apresentacao_Android/01_Aula_Apresentação_Android.pdf)
-- [Aula 2](/02_Android/12_Quarta-Feira_13_09_2023/Readme.md)
+- [Aula 1.1 - Hello Word!](/02_Android/11_Segunda-Feira_11_09_2023/01_Aula_Apresentacao_Android/01_Aula_Apresentação_Android.pdf)
+- [Aula 1.2 - PrimeiroApp](/02_Android/11_Segunda-Feira_11_09_2023/01_Aula_Apresentacao_Android/01_Aula_Apresentação_Android.pdf)
+- [Aula 2   - Texto e Botões ](/embreve.pdf)
 
 
 Conteúdo: [Home](/README.md)

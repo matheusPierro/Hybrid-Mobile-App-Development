@@ -5,6 +5,7 @@ theme: fiap-dark
 <!-- _class: logo -->
 
 ---
+<!--_class: title-->
 # Repositório Aulas Curso Graduação 
 ## [2TDS] :: HMAD FIAP ::
 
@@ -13,8 +14,8 @@ theme: fiap-dark
 # Aula 10 - Kotlin 
 
 - [X] CheckPoint - I
-- [X] Check Point - Calculadora
-- [X] Check Point - MegaSena
+- [X] Check Point - Calculadora  - [Solução](/01_Kotlin/10_Quarta-Feira_06_09_2023/13_CP_Calculadora/PG1_Calculadora.kt)
+- [X] Check Point - MegaSena     - [Solução](/01_Kotlin/10_Quarta-Feira_06_09_2023/14_CP_MegaSena/PG2_MegaSena.kt)
 
 Conteúdo: [Aula_10](/01_Kotlin/10_Quarta-Feira_06_09_2023/Readme.md)
 
