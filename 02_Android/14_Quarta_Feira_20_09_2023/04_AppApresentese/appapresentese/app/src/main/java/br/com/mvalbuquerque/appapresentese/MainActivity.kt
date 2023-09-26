@@ -27,8 +27,8 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
 
             //Primeira Forma
-            val msg = "Olá ${editText.text}"
-            Toast.makeText(this, msg, Toast.LENGTH_SHORT).show()
+            val msg = "Oi, ${editText.text}"
+//            Toast.makeText(this, msg, Toast.LENGTH_SHORT).show()
 
             //Segunda Forma
             //   val textoDigitado = editText.text.toString()
@@ -38,18 +38,18 @@ class MainActivity : AppCompatActivity() {
 //                textView.text = textoDigitado
 //            }
           //Terceira Forma
-          //  showInfoDialog("Opa!", msg)
+           showInfoDialog("Bem Vindo(a)!", msg)
 
         }
 
     }
     //Terceira forma
-//    fun showInfoDialog(titulo: String, mensagem: String) {
-//        val builder = AlertDialog.Builder(this)
-//        builder
-//            .setTitle(titulo)
-//            .setMessage(mensagem)
-//            .setPositiveButton("ok", null)
-//        builder.create().show()
-//    }
+    fun showInfoDialog(titulo: String, mensagem: String) {
+        val builder = AlertDialog.Builder(this)
+        builder
+            .setTitle(titulo)
+            .setMessage(mensagem)
+            .setPositiveButton("ok", null)
+        builder.create().show()
+    }
 }
