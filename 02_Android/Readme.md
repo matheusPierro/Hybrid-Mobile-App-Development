@@ -21,6 +21,9 @@ theme: fiap-dark
 - [Aula 6   - AppSoma](/02_Android/13_Segunda_Feira_18_09_2023/03_AppSoma/02_Desafio/02_DesafioSoma_Android.pdf)
 - [Aula 7   - AppApresenteSe](/02_Android/13_Segunda_Feira_18_09_2023/04_AppApresentese/01_Teoria/ApresenteSe.png)
 - [Aula 8   - AppCadastro](/02_Android/14_Quarta_Feira_20_09_2023/05_AppCadastro/01_Desafio_AppCadastro/)
+- [Aula 9   - AppIMC](/02_Android/16_Quarta_Feira_27_09_2023/AppIMC/)
+- [Aula 10  - AppLanchonete](/02_Android/16_Quarta_Feira_27_09_2023/AppLanchonete/)
+- [Aula 11  - AppInstitucional](/02_Android/17_Segunda_Feira_02_10_2023/Desafio_App_Institucional/)
 
 
 
